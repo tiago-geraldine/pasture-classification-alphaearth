@@ -1,0 +1,16 @@
+lz4
+tqdm
+scipy
+jinja2
+joblib
+pyarrow
+parquet
+shapely
+xgboost
+lightgbm
+rasterio
+geopandas
+ipykernel
+matplotlib
+scikit-learn
+earthengine-api
